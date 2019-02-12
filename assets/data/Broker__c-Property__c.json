@@ -1,6 +1,5 @@
 {
-    "records": [
-        {
+    "records": [{
             "attributes": {
                 "type": "Broker__c",
                 "referenceId": "Broker__cRef1"
@@ -12,8 +11,7 @@
             "Title__c": "Senior Broker",
             "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/caroline_kingsley.jpg",
             "Properties__r": {
-                "records": [
-                    {
+                "records": [{
                         "attributes": {
                             "type": "Property__c",
                             "referenceId": "Property__cRef1"
@@ -100,8 +98,7 @@
             "Title__c": "Senior Broker",
             "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michael_jones.jpg",
             "Properties__r": {
-                "records": [
-                    {
+                "records": [{
                         "attributes": {
                             "type": "Property__c",
                             "referenceId": "Property__cRef4"
@@ -188,32 +185,30 @@
             "Title__c": "Senior Broker",
             "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jonathan_bradley.jpg",
             "Properties__r": {
-                "records": [
-                    {
-                        "attributes": {
-                            "type": "Property__c",
-                            "referenceId": "Property__cRef7"
-                        },
-                        "Address__c": "61 West Cedar St",
-                        "Assessed_Value__c": 717750,
-                        "Baths__c": 4,
-                        "Beds__c": 5,
-                        "City__c": "Boston",
-                        "Date_Listed__c": "2019-01-14",
-                        "Description__c": "Pulling teeth this proposal is a win-win situation which will cause a stellar paradigm shift, and produce a multi-fold increase in deliverables for turd polishing, and first-order optimal strategies at the end of the day UI great plan! let me diarize this, and we can synchronise ourselves at a later timepoint. When does this sunset? future-proof.",
-                        "Location__Longitude__s": -71.070061,
-                        "Location__Latitude__s": 42.359986,
-                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house03.jpg",
-                        "Price__c": 825000,
-                        "Name": "61 West Cedar St",
-                        "State__c": "MA",
-                        "Status__c": "Available",
-                        "Tags__c": "Modern",
-                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house03sq.jpg",
-                        "Title__c": "Modern City Living",
-                        "Zip__c": "02420"
-                    }
-                ]
+                "records": [{
+                    "attributes": {
+                        "type": "Property__c",
+                        "referenceId": "Property__cRef7"
+                    },
+                    "Address__c": "61 West Cedar St",
+                    "Assessed_Value__c": 717750,
+                    "Baths__c": 4,
+                    "Beds__c": 5,
+                    "City__c": "Boston",
+                    "Date_Listed__c": "2019-01-14",
+                    "Description__c": "Pulling teeth this proposal is a win-win situation which will cause a stellar paradigm shift, and produce a multi-fold increase in deliverables for turd polishing, and first-order optimal strategies at the end of the day UI great plan! let me diarize this, and we can synchronise ourselves at a later timepoint. When does this sunset? future-proof.",
+                    "Location__Longitude__s": -71.070061,
+                    "Location__Latitude__s": 42.359986,
+                    "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house03.jpg",
+                    "Price__c": 825000,
+                    "Name": "61 West Cedar St",
+                    "State__c": "MA",
+                    "Status__c": "Available",
+                    "Tags__c": "Modern",
+                    "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house03sq.jpg",
+                    "Title__c": "Modern City Living",
+                    "Zip__c": "02420"
+                }]
             }
         },
         {
@@ -228,32 +223,30 @@
             "Title__c": "Senior Broker",
             "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jennifer_wu.jpg",
             "Properties__r": {
-                "records": [
-                    {
-                        "attributes": {
-                            "type": "Property__c",
-                            "referenceId": "Property__cRef8"
-                        },
-                        "Address__c": "32 Prince st",
-                        "Assessed_Value__c": 734700,
-                        "Baths__c": 4,
-                        "Beds__c": 5,
-                        "City__c": "Cambridge",
-                        "Date_Listed__c": "2019-01-23",
-                        "Description__c": "Distillery meditation before they sold out umami. Typewriter craft beer actually, raw denim gluten-free roof party before they sold out quinoa bitters dreamcatcher tousled ennui vice small batch sartorial.",
-                        "Location__Longitude__s": -71.110448,
-                        "Location__Latitude__s": 42.360642,
-                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house04.jpg",
-                        "Price__c": 930000,
-                        "Name": "32 Prince st",
-                        "State__c": "MA",
-                        "Status__c": "Available",
-                        "Tags__c": "Contemporary",
-                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house04sq.jpg",
-                        "Title__c": "Live in the Trees",
-                        "Zip__c": "02420"
-                    }
-                ]
+                "records": [{
+                    "attributes": {
+                        "type": "Property__c",
+                        "referenceId": "Property__cRef8"
+                    },
+                    "Address__c": "32 Prince st",
+                    "Assessed_Value__c": 734700,
+                    "Baths__c": 4,
+                    "Beds__c": 5,
+                    "City__c": "Cambridge",
+                    "Date_Listed__c": "2019-01-23",
+                    "Description__c": "Distillery meditation before they sold out umami. Typewriter craft beer actually, raw denim gluten-free roof party before they sold out quinoa bitters dreamcatcher tousled ennui vice small batch sartorial.",
+                    "Location__Longitude__s": -71.110448,
+                    "Location__Latitude__s": 42.360642,
+                    "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house04.jpg",
+                    "Price__c": 930000,
+                    "Name": "32 Prince st",
+                    "State__c": "MA",
+                    "Status__c": "Available",
+                    "Tags__c": "Contemporary",
+                    "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house04sq.jpg",
+                    "Title__c": "Live in the Trees",
+                    "Zip__c": "02420"
+                }]
             }
         },
         {
@@ -268,32 +261,30 @@
             "Title__c": "Senior Broker",
             "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/olivia_green.jpg",
             "Properties__r": {
-                "records": [
-                    {
-                        "attributes": {
-                            "type": "Property__c",
-                            "referenceId": "Property__cRef9"
-                        },
-                        "Address__c": "211 Charles Street",
-                        "Assessed_Value__c": 629000,
-                        "Baths__c": 2,
-                        "Beds__c": 3,
-                        "City__c": "Boston",
-                        "Date_Listed__c": "2019-01-05",
-                        "Description__c": "Green juice 8-bit scenester cupidatat venmo, ramps eu pickled ea cornhole. Odio veniam trust fund, marfa normcore mlkshk kitsch anim culpa distillery vexillologist pinterest consequat. Microdosing commodo stumptown, tote bag pour-over normcore kickstarter.",
-                        "Location__Longitude__s": -71.084454,
-                        "Location__Latitude__s": 42.368168,
-                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05.jpg",
-                        "Price__c": 850000,
-                        "Name": "211 Charles Street",
-                        "State__c": "MA",
-                        "Status__c": "Available",
-                        "Tags__c": "Modern",
-                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05sq.jpg",
-                        "Title__c": "Waterfront in the City",
-                        "Zip__c": "02420"
-                    }
-                ]
+                "records": [{
+                    "attributes": {
+                        "type": "Property__c",
+                        "referenceId": "Property__cRef9"
+                    },
+                    "Address__c": "211 Charles Street",
+                    "Assessed_Value__c": 629000,
+                    "Baths__c": 2,
+                    "Beds__c": 3,
+                    "City__c": "Boston",
+                    "Date_Listed__c": "2019-01-05",
+                    "Description__c": "Green juice 8-bit scenester cupidatat venmo, ramps eu pickled ea cornhole. Odio veniam trust fund, marfa normcore mlkshk kitsch anim culpa distillery vexillologist pinterest consequat. Microdosing commodo stumptown, tote bag pour-over normcore kickstarter.",
+                    "Location__Longitude__s": -71.084454,
+                    "Location__Latitude__s": 42.368168,
+                    "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05.jpg",
+                    "Price__c": 850000,
+                    "Name": "211 Charles Street",
+                    "State__c": "MA",
+                    "Status__c": "Available",
+                    "Tags__c": "Modern",
+                    "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05sq.jpg",
+                    "Title__c": "Waterfront in the City",
+                    "Zip__c": "02420"
+                }]
             }
         },
         {
@@ -308,32 +299,30 @@
             "Title__c": "Senior Broker",
             "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/miriam_aupont.jpg",
             "Properties__r": {
-                "records": [
-                    {
-                        "attributes": {
-                            "type": "Property__c",
-                            "referenceId": "Property__cRef10"
-                        },
-                        "Address__c": "448 Hanover St",
-                        "Assessed_Value__c": 601750,
-                        "Baths__c": 2,
-                        "Beds__c": 4,
-                        "City__c": "Boston",
-                        "Date_Listed__c": "2019-02-05",
-                        "Description__c": "Blimey Admiral of the Black Jolly Roger pirate Buccaneer line ballast spirits chantey topmast. Plate Fleet heave down booty Chain Shot nipper spike cutlass furl pinnace bounty. Gabion ahoy piracy coffer killick schooner main sheet holystone careen barque.",
-                        "Location__Longitude__s": -71.052617,
-                        "Location__Latitude__s": 42.366855,
-                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06.jpg",
-                        "Price__c": 725000,
-                        "Name": "448 Hanover St",
-                        "State__c": "MA",
-                        "Status__c": "Available",
-                        "Tags__c": "Colonial",
-                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06sq.jpg",
-                        "Title__c": "Quiet Retreat",
-                        "Zip__c": "02420"
-                    }
-                ]
+                "records": [{
+                    "attributes": {
+                        "type": "Property__c",
+                        "referenceId": "Property__cRef10"
+                    },
+                    "Address__c": "448 Hanover St",
+                    "Assessed_Value__c": 601750,
+                    "Baths__c": 2,
+                    "Beds__c": 4,
+                    "City__c": "Boston",
+                    "Date_Listed__c": "2019-02-05",
+                    "Description__c": "Blimey Admiral of the Black Jolly Roger pirate Buccaneer line ballast spirits chantey topmast. Plate Fleet heave down booty Chain Shot nipper spike cutlass furl pinnace bounty. Gabion ahoy piracy coffer killick schooner main sheet holystone careen barque.",
+                    "Location__Longitude__s": -71.052617,
+                    "Location__Latitude__s": 42.366855,
+                    "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06.jpg",
+                    "Price__c": 725000,
+                    "Name": "448 Hanover St",
+                    "State__c": "MA",
+                    "Status__c": "Available",
+                    "Tags__c": "Colonial",
+                    "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06sq.jpg",
+                    "Title__c": "Quiet Retreat",
+                    "Zip__c": "02420"
+                }]
             }
         },
         {
@@ -348,32 +337,30 @@
             "Title__c": "Senior Broker",
             "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michelle_lambert.jpg",
             "Properties__r": {
-                "records": [
-                    {
-                        "attributes": {
-                            "type": "Property__c",
-                            "referenceId": "Property__cRef11"
-                        },
-                        "Address__c": "127 Endicott St",
-                        "Assessed_Value__c": 378000,
-                        "Baths__c": 1,
-                        "Beds__c": 3,
-                        "City__c": "Boston",
-                        "Date_Listed__c": "2019-02-01",
-                        "Description__c": "Ad placeat sartorial, qui celiac ramps fap lumbersexual cray truffaut meh small batch godard. Single-origin coffee dolore gastropub pickled blue bottle, master cleanse migas cupidatat.",
-                        "Location__Longitude__s": -71.057352,
-                        "Location__Latitude__s": 42.365003,
-                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07.jpg",
-                        "Price__c": 450000,
-                        "Name": "127 Endicott St",
-                        "State__c": "MA",
-                        "Status__c": "Available",
-                        "Tags__c": "Victorian",
-                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07sq.jpg",
-                        "Title__c": "City Living",
-                        "Zip__c": "02420"
-                    }
-                ]
+                "records": [{
+                    "attributes": {
+                        "type": "Property__c",
+                        "referenceId": "Property__cRef11"
+                    },
+                    "Address__c": "127 Endicott St",
+                    "Assessed_Value__c": 378000,
+                    "Baths__c": 1,
+                    "Beds__c": 3,
+                    "City__c": "Boston",
+                    "Date_Listed__c": "2019-02-01",
+                    "Description__c": "Ad placeat sartorial, qui celiac ramps fap lumbersexual cray truffaut meh small batch godard. Single-origin coffee dolore gastropub pickled blue bottle, master cleanse migas cupidatat.",
+                    "Location__Longitude__s": -71.057352,
+                    "Location__Latitude__s": 42.365003,
+                    "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07.jpg",
+                    "Price__c": 450000,
+                    "Name": "127 Endicott St",
+                    "State__c": "MA",
+                    "Status__c": "Available",
+                    "Tags__c": "Victorian",
+                    "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07sq.jpg",
+                    "Title__c": "City Living",
+                    "Zip__c": "02420"
+                }]
             }
         },
         {
@@ -388,32 +375,30 @@
             "Title__c": "Senior Broker",
             "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/victor_ochoa.jpg",
             "Properties__r": {
-                "records": [
-                    {
-                        "attributes": {
-                            "type": "Property__c",
-                            "referenceId": "Property__cRef12"
-                        },
-                        "Address__c": "48 Brattle St",
-                        "Assessed_Value__c": 315000,
-                        "Baths__c": 4,
-                        "Beds__c": 5,
-                        "City__c": "Cambridge",
-                        "Date_Listed__c": "2019-02-08",
-                        "Description__c": "Can you ballpark the cost per unit for me market-facing. Going forward put a record on and see who dances, yet powerpoint Bunny. Moving the goalposts paddle on both sides, or future-proof, yet move the needle Q1 strategic fit, for usabiltiy.",
-                        "Location__Longitude__s": -71.121653,
-                        "Location__Latitude__s": 42.374117,
-                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10.jpg",
-                        "Price__c": 450000,
-                        "Name": "48 Brattle St",
-                        "State__c": "MA",
-                        "Status__c": "Available",
-                        "Tags__c": "Colonial",
-                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10sq.jpg",
-                        "Title__c": "Heart of Harvard Square",
-                        "Zip__c": "02420"
-                    }
-                ]
+                "records": [{
+                    "attributes": {
+                        "type": "Property__c",
+                        "referenceId": "Property__cRef12"
+                    },
+                    "Address__c": "48 Brattle St",
+                    "Assessed_Value__c": 315000,
+                    "Baths__c": 4,
+                    "Beds__c": 5,
+                    "City__c": "Cambridge",
+                    "Date_Listed__c": "2019-02-08",
+                    "Description__c": "Can you ballpark the cost per unit for me market-facing. Going forward put a record on and see who dances, yet powerpoint Bunny. Moving the goalposts paddle on both sides, or future-proof, yet move the needle Q1 strategic fit, for usabiltiy.",
+                    "Location__Longitude__s": -71.121653,
+                    "Location__Latitude__s": 42.374117,
+                    "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10.jpg",
+                    "Price__c": 450000,
+                    "Name": "48 Brattle St",
+                    "State__c": "MA",
+                    "Status__c": "Available",
+                    "Tags__c": "Colonial",
+                    "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10sq.jpg",
+                    "Title__c": "Heart of Harvard Square",
+                    "Zip__c": "02420"
+                }]
             }
         }
     ]
